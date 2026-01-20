@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec3aeb68-f32d-4589-9132-3ccb1906e257" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/account.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/alarm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/challenge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/explore.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/garden.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/alarm-ring.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/challenge-detail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/challenge-photo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/challenge-praise.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/environmental-awareness.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/journal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/level3-planning.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/service-detail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/weather-forecast.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/app-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/app-icon-256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/app-icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/aspnet/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/favicon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/favicon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/favicon-64x64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/html/favicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/next/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/react/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/ruby/application.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon-package/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Challenge_Completed_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Challenge_Locked_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Challenge_inProgress_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/FI_Finnish flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/GB_Eng_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Logo/Alarm Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Logo/pop-up_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SetAlarm_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Challenge_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Challenge_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Ekokumppanit Services Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Ekokumppanit Services Button_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Environmental Awareness Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Environmental Awareness Button_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Environmental Awareness_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Garden_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Garden_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/HQ_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/HQ_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/SetAlarm_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/SetAlarm_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/WeatherForecast Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/No Label/WeatherForecast Button_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/Challenge_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/Challenge_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/Garden_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/Garden_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/HQ_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/HQ_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/SetAlarm_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/SetAlarm_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no_background/With Label/Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/Challenge_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/Challenge_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/Garden_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/Garden_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/HQ_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/HQ_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/SetAlarm_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/no label/SetAlarm_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/Challenge_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/Challenge_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/Garden_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/Garden_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/HQ_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/HQ_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/SetAlarm_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/white icons no bg/with label/SetAlarm_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/Challenge_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/Challenge_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/Garden_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/Garden_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/HQ_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/HQ_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/SetAlarm_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/SetAlarm_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/No Label/Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/Challenge_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/Challenge_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/Garden_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/Garden_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/HQ_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/HQ_icon_inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/SetAlarm_icon_Active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/SetAlarm_icon_Inactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/Sunrise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/with_background/With Label/Sunset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/external-link.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/haptic-tab.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/hello-wave.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/parallax-scroll-view.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/themed-text.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/themed-view.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/collapsible.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/icon-symbol.ios.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/icon-symbol.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contexts/LanguageContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/use-color-scheme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/use-color-scheme.web.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/use-theme-color.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/avala-trail-forest-nature.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/birds-forest-nature.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/calm-nature-ambience.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/jungle-nature.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/nature-ambience.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/nature-birds-singing.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/nature.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/sound-of-walking-out-in-nature.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Alarm Sounds/spring-forest-nature.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/garden-storage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/journal-storage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/profile-storage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/trivia.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/reset-project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="38VtKjQmlp5gIZNWYtiKgnGb4B7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Nature Alarm App/ulkohälytin-app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec3aeb68-f32d-4589-9132-3ccb1906e257" name="Changes" comment="" />
+      <created>1768896503667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768896503667</updated>
+    </task>
+    <servers />
+  </component>
+</project>
